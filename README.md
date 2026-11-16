@@ -1,4 +1,4 @@
-## Authoritative DNS Server on Debian 13 (Trixie)
+## Authoritative DNS Server on Debian 13
 
 Use BIND9 (bind9), the standard open-source DNS server software, to configure an authoritative internal zone example, `lab.local`.
 
